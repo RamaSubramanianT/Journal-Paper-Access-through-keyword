@@ -15,9 +15,6 @@
 <h3>Usage</h3>
 <p>To use the application, enter one or more keywords in the search bar and click the "Search" button. The application will return a list of papers that match the keywords.</p>
 
-<h3>License</h3>
-<p>This project is licensed under the MIT License.</p>
-
 <h3>Contact</h3>
 <p>If you have any questions or feedback, please contact the author at ramartswamy@gmail.com</p>
 
