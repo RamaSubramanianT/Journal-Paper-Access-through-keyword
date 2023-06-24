@@ -13,6 +13,10 @@
 <li>Create a new MySQL database and import the journal_papers.sql file.</li>
 <li>Run the application.</li>
 <h3>Usage</h3>
+<li>First create your username and password, login using those credential.</li>
+<li>You can Upload and Search for research paper in your profile.</li>
+<li>All the frames and java files are present in src folder.</li>
+
 <p>To use the application, enter one or more keywords in the search bar and click the "Search" button. The application will return a list of papers that match the keywords.</p>
 
 <h3>Contact</h3>
